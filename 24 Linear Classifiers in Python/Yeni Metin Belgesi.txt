@@ -1,0 +1,4 @@
+ Applying logistic regression and SVM 
+  Loss functions 
+   Logistic regression 
+    Support Vector Machines 
